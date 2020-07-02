@@ -1,0 +1,5 @@
+﻿  diff.cpp
+D:\work\c++\diff\diff.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  diff.vcxproj -> D:\work\c++\diff\Debug\diff.exe

@@ -1,0 +1,2 @@
+D:\work\c++\diff\Debug\diff.exe
+D:\work\c++\diff\Debug\diff.pdb
