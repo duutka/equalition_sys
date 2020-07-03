@@ -1,0 +1,6 @@
+#include "diff.h"
+#include <time.h>
+
+int main() {
+
+}
